@@ -1,4 +1,4 @@
-#YOGA INTERFACE
+YOGA INTERFACE
 
 
 <img src="./assets/yoga-interface.jpg" alt="interface yoga">
