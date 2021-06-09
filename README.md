@@ -1,7 +1,7 @@
 YOGA INTERFACE
 
 
-<img src="./assets/yoga-interface.jpg" alt="interface yoga">
+<img src="./assets/yoga-interface.jpg" width="250px" alt="interface yoga">
 
 > Resultado do projeto yoga.
 
